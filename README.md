@@ -1,7 +1,7 @@
 # Website Considerations
 
 ## Table of Contents
-- [Development Process](#development-process-high-level)
+- [Development Process](#development-process)
 - [Function](#function)
 - [Content](#Content)
 - [Usability & Accessibility](#usability--accessibility)
