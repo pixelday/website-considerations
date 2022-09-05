@@ -44,6 +44,15 @@
 - **Quality**: Text content is concise and to the point, and shares a consistent voice. Image, video, and audio content is professionally-produced and serves its purpose
 - **Information Architecture**: Well-structured, well-designed, user-focused content hierarchies and flows that anticipate users’ needs, attention spans, and successfully inform and help them navigate through the site
 
+## Usability & Accessibility
+- Good UX practices are used
+- Views and navigation are intuitive
+- UI leverages familiar paradigms
+- Functional UI looks and feels smooth, solid, and snappy
+- Error messages exist (and are useful) for likely edge cases
+- Content is accessible to users who rely on assistive technologies like screen readers, closed captioning, keyboard-only input, and accessible color, contrast, and font size values
+- WCAG/ADA compliant
+
 ## User Experience
 - User is able to achieve their website interaction-related goals as efficiently and painlessly as possible
 - User feels safe, confident, and well taken care of while they are interacting with the website
