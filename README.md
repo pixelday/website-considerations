@@ -6,20 +6,21 @@
 - [Content](#Content)
 - [Usability & Accessibility](#usability--accessibility)
 - [Aesthetics](#aesthetics)
-- [Performance & Optimization](#performance--optimization)
+- [Brand Adherence](#brand-adherence)
 - [Client Agnosticism](#client-agnosticism)
 - [Security](#security)
+- [Infrastructure & Services](#infrastructure--services)
 - [Maintainability & Scalability](#maintainability--scalability)
+- [Content Management](#content-management)
+- [Performance & Optimization](#performance--optimization)
 - [Legal Protection](#legal-protection)
-- [Brand Adherence](#brand-adherence)
 - [Social Media Integration](#social-media-integration)
 - [SEO](#seo)
-- [Analytics](#analytics)
-- [Quality Assurance](#quality-assurance)
-- [Infrastructure & Services](#infrastructure--services)
-- [Launch Strategy](#launch-strategy)
-- [Content Management](#content-management)
 - [Localization](#localization)
+- [Project-specific](#project-specific)
+- [Quality Assurance](#quality-assurance)
+- [Launch Strategy](#launch-strategy)
+- [Analytics](#analytics)
 
 ---
 
@@ -57,21 +58,15 @@
 - User is able to achieve their website interaction-related goals as efficiently and painlessly as possible
 - User feels safe, confident, and well taken care of while they are interacting with the website
 - User is delighted to interact with the website
-- Fun easter eggs (budget-permitting)
+- Fun stuff (budget-permitting), easter eggs, etc.
 
 ## Aesthetics
 - Presentation is beautiful and professional
 - Design is simple and clean, and good graphic design principles are employed (e.g. grids, color, typography, negative space, etc.)
 - Subtle interactions and transition animations are used to enhance (but not overpower) the experience
 
-## Performance & Optimization
-- Website load times are minimal
-- Front-end code is as lightweight as possible (elegantly written with no unnecessary libraries or frameworks and no memory leaks)
-- Image assets are optimized and/or compressed
-- Decreased reliance on real-time services for rendering content
-- Use of CDN hosting where appropriate
-- Use of code minification where appropriate
-- Performance analysis tools are used to fine-tune the experience
+## Brand Adherence
+- Any existing brand, marketing, and design style guidelines are followed
 
 ## Client Agnosticism
 - Website is agnostic to device, input method and browser
@@ -88,6 +83,13 @@
 - Participants are using common sense when dealing with sensitive data
 - Protection from bots spamming user forms (e.g. Captchas)
 
+## Infrastructure & Services
+- Domain is registered and DNS records are properly setup
+- Web hosting is reliable, responsive, and well-optimized for the website running on it
+- CDNs are used where appropriate
+- Custom back-end services are working correctly, are secure, are optimized for their environments, and are able to handle the load of incoming requests
+- Any integration with 3rd-party services or APIs is working properly with minimal downtime
+
 ## Maintainability & Scalability
 - Website is built on a robust architecture
 - All code is valid and standards-compliant
@@ -99,6 +101,21 @@
 - Architecture lends itself to scaling in the future
 - Development, staging, and deployment architecture makes continuous integration easier
 
+## Content Management
+- CMS Infrastructure and UX
+- Site data management
+- User roles / permissions
+- Asset management
+
+## Performance & Optimization
+- Website load times are minimal
+- Front-end code is as lightweight as possible (elegantly written with no unnecessary libraries or frameworks and no memory leaks)
+- Image assets are optimized and/or compressed
+- Decreased reliance on real-time services for rendering content
+- Use of CDN hosting where appropriate
+- Use of code minification where appropriate
+- Performance analysis tools are used to fine-tune the experience
+
 ## Legal Protection
 - Content creators have granted permission for usage of all content
 - Usage of any 3rd-party code libraries, fonts, media assets, etc. is compatible with their respective licenses
@@ -106,9 +123,6 @@
 - Content is not defamatory against any group or individual and does not infringe on anyone’s rights
 - Material complies with local law
 - Copyright info, Terms & Conditions and Privacy Policy pages exist (with prominent links on every page) where appropriate, and GDPR is addressed where appropriate
-
-## Brand Adherence
-- Any existing brand, marketing, and design style guidelines are followed
 
 ## Social Media Integration
 - Website is configured to be easily shared on popular social media platforms (e.g. contains appropriate Open Graph and Twitter meta tags)
@@ -123,31 +137,20 @@
 - Analysis tools like Google Search Console are used to identify any SEO issues
 - Sitemap has been created and registered with Google
 
-## Analytics
-- Data is being collected on how users are interacting with the website (e.g. Google Analytics or a custom solution)
-- Data is being analyzed to fine-tune website execution in order to further high-level goals
+## Localization
+- TODO: Add points for localization
+
+## Project-specific
+- Any project-specific goals or considerations that are beyond the scope of this doc.
 
 ## Quality Assurance
 - Website has been thoroughly tested and has been determined to have achieved the above goals
 - Any bugs that are uncovered are tracked, triaged, and fixed
 - Content has been spell-checked and typos have been addressed
 
-## Infrastructure & Services
-- Domain is registered and DNS records are properly setup
-- Web hosting is reliable, responsive, and well-optimized for the website running on it
-- CDNs are used where appropriate
-- Custom back-end services are working correctly, are secure, are optimized for their environments, and are able to handle the load of incoming requests
-- Any integration with 3rd-party services or APIs is working properly with minimal downtime
-
 ## Launch Strategy
+- TODO: Add points for launch strategy
 
-## Project-specific
-- Any project-specific goals or considerations that are beyond the scope of this doc.
-
-## Content Management
-- CMS Infrastructure and UX
-- Site data management
-- User roles / permissions
-- Asset management
-
-## Localization
+## Analytics
+- Data is being collected on how users are interacting with the website (e.g. Google Analytics or a custom solution)
+- Data is being analyzed to fine-tune website execution in order to further high-level goals
