@@ -1,5 +1,29 @@
 # Website Considerations
-## Development Process (high-level)
+
+## Table of Contents
+- [Development Process](#development-process-high-level)
+- [Function](#function)
+- [Content](#Content)
+- [Usability & Accessibility](#usability--accessibility)
+- [Aesthetics](#aesthetics)
+- [Performance & Optimization](#performance--optimization)
+- [Client Agnosticism](#client-agnosticism)
+- [Security](#security)
+- [Maintainability & Scalability](#maintainability--scalability)
+- [Legal Protection](#legal-protection)
+- [Brand Adherence](#brand-adherence)
+- [Social Media Integration](#social-media-integration)
+- [SEO](#seo)
+- [Analytics](#analytics)
+- [Quality Assurance](#quality-assurance)
+- [Infrastructure & Services](#infrastructure--services)
+- [Launch Strategy](#launch-strategy)
+- [Content Management](#content-management)
+- [Localization](#localization)
+
+---
+
+## Development Process
 - Goals need to be identified.
 - Architecture needs to be set up (web hosting, build system, frameworks, etc.).
 - Text content has to be written and all media assets have to be produced.
@@ -8,28 +32,6 @@
 - Finished work has to be tested and then deployed.
 - Usage data has to be analyzed to determine effectiveness.
 - Repeat.
-
-## Consideration Categories
-- Function
-- Content
-- Usability & Accessibility
-- Aesthetics
-- Performance & Optimization
-- Client Agnosticism
-- Security
-- Maintainability & Scalability
-- Legal Protection
-- Brand Adherence
-- Social Media Integration
-- SEO
-- Analytics
-- Quality Assurance
-- Infrastructure & Services
-- Launch Strategy
-- Content Management
-- Localization
-
----
 
 ## Function
 - Website has clearly-defined core business, product, design, and technical goals
