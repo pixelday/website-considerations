@@ -4,6 +4,7 @@
 - [Development Process](#development-process)
 - [Function](#function)
 - [Content](#Content)
+- [Ethics](#Ethics)
 - [Usability & Accessibility](#usability--accessibility)
 - [Aesthetics](#aesthetics)
 - [Brand Adherence](#brand-adherence)
@@ -44,6 +45,17 @@
 - **Technicality**: Text content is spelled correctly and grammatically correct.
 - **Quality**: Text content is concise and to the point, and shares a consistent voice. Image, video, and audio content is professionally-produced and serves its purpose
 - **Information Architecture**: Well-structured, well-designed, user-focused content hierarchies and flows that anticipate users’ needs, attention spans, and successfully inform and help them navigate through the site
+
+## Ethics
+- Social responsibility - Is there anyone who might be negatively impacted by this work? How will you assess this impact?
+- Diversity and Inclusion - How will you consider the needs of a diverse group of people during this project? Who might be excluded from the benefits of this work? Is this work accessible to users with disabilities?
+- Transparency and accountability - How will you communicate clearly about how this system works? How will you be accountable for errors made by the system?
+- Privacy and security
+    - Do users understand how their data is being used?
+    - Is any sensitive data being used in this system?
+    - Are there legal requirements around the use of the data?
+    - What rights do the users have with respect to their data?
+- Sustainability - Could there be any negative environmental impact as a result of this work?
 
 ## Usability & Accessibility
 - Good UX practices are used
