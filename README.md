@@ -170,7 +170,8 @@
 ---
 
 TODO:
-
-Ethics
-PWA site.manifest
-page icon and social share image
+- Ethics
+- PWA site.webmanifest
+- Favicon, apple-touch-icon.png, icon.png and social share image
+- llms.txt
+  
