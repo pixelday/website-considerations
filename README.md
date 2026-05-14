@@ -166,3 +166,11 @@
 ## Analytics
 - Data is being collected on how users are interacting with the website (e.g. Google Analytics or a custom solution)
 - Data is being analyzed to fine-tune website execution in order to further high-level goals
+
+---
+
+TODO:
+
+Ethics
+PWA site.manifest
+page icon and social share image
